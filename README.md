@@ -1,5 +1,5 @@
-DEEPNOTE LINK
-DEEPNOTE LINK
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#origin)
+[![Open in Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?template=data-science&url=origin)
 
 
 
