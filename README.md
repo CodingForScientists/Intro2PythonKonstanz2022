@@ -86,4 +86,5 @@
 | 13:30 - 14:15     | Conditional Flow: If-Else Blocks in Python                |
 | 14:15 - 15:30     | Repeating Work: For Loops in Python                       |
 | 15:30 - 15:45     | Break                                                    |
-| 15:45 - 16:00     | Workshop Wrap-Up | -->
+| 15:45 - 16:00     | Workshop Wrap-Up | -->[![Open in Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?template=data-science&url=origin)
+[![Open in Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?template=data-science&url=origin)
