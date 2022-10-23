@@ -1,3 +1,5 @@
+DEEPNOTE LINK
+DEEPNOTE LINK
 
 
 
@@ -82,5 +84,4 @@
 | 13:30 - 14:15     | Conditional Flow: If-Else Blocks in Python                |
 | 14:15 - 15:30     | Repeating Work: For Loops in Python                       |
 | 15:30 - 15:45     | Break                                                    |
-| 15:45 - 16:00     | Workshop Wrap-Up | -->DEEPNOTE LINK
-DEEPNOTE LINK
+| 15:45 - 16:00     | Workshop Wrap-Up | -->
