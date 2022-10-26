@@ -4,4 +4,6 @@ openpyxl
 pandas
 pingouin
 scipy
+seaborn
+sqlalchemy
 statsmodels
